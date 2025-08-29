@@ -100,5 +100,3 @@ This project uses the meta-llama/Llama model which requires a license from Meta.
 ## Acknowledgments
 
 The ArXiv dataset used in this project is derived from papers submitted to arXiv.org.
-
-For any questions or issues, please open
